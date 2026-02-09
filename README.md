@@ -3,5 +3,7 @@ This project is based on the [LinkedIn Learning Course](https://www.linkedin.com
 
 ## Dataset
 A small data subset from [NYC OpenData](https://data.cityofnewyork.us/).
+
 [Parking Violations Issued](https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2024/pvqr-7yc4/about_data)
+
 [Parking Violation Codes](https://data.cityofnewyork.us/Transportation/DOF-Parking-Violation-Codes/ncbg-6agr/about_data)
